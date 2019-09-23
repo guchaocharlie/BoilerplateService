@@ -5,6 +5,7 @@
   "main": "dist/src/server.js",
   "scripts": {
     "start": "tsc && node dist/src/server.js",
+    "build": "tsc",
     "test": "jest"
   },
   "repository": {
